@@ -1,0 +1,3 @@
+class EditorUser < User
+
+end
